@@ -34,3 +34,10 @@ I'm a Researcher who is building his way into the AI world, one step at a time. 
 <br />
 
 #
+
+### 📊 Stats
+
+![Zulfi's GitHub stats](https://github-readme-stats.vercel.app/api?username=zulfikharali650&theme=radical&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zulfikharali650&layout=compact)](https://github.com/zulfikharali650/github-readme-stats)
+
