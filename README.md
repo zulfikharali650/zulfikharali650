@@ -1,6 +1,6 @@
-# Zulfi Ali
+# Zulfi Ali 𐐘💥╾━╤デ╦︻ඞා
 
-**`Blah Blah @ Blah Blah (Researcher/~Coder/)`**
+**`  (Researcher/~Coder/)`**
 
 I'm a Researcher who is building his way into the AI world, one step at a time. I have a list of my publications below (sone are collaborations).
 
