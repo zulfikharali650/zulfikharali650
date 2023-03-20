@@ -28,8 +28,8 @@ I'm a Researcher who is building his way into the AI world, one step at a time. 
 <img align="left" width="30px" style="padding-right:10px;" alt="Jupyter" title="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" width="30px" style="padding-right:10px;" alt="Numpy" title="Numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" alt="Pandas" title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img align="left" width="30px" style="padding-right:10px;" alt="TensorFlow" title="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" />
-<img align="left" width="30px" style="padding-right:10px;" alt="PyTorch" title="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" />
+<img align="left" width="30px" style="padding-right:10px;" alt="TensorFlow" title="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" alt="PyTorch" title="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" alt="VS Code" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <br />
 
