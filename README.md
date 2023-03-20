@@ -5,9 +5,9 @@
 I'm a Researcher who is building his way into the AI world, one step at a time. I have a list of my publications below (sone are collaborations).
 
 <p align="left">
-  <a target="_blank" href="https://scholar.google.com/citations?hl=en&user=KjH0IUIAAAAJ">
+  <a href="https://scholar.google.com/citations?hl=en&user=KjH0IUIAAAAJ" target="_blank">
     <img alt="Google Scholar" title="My Publications" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
-  <a target="_blank" href="https://linkedin.com/in/zulfikharaali/">
+  <a href="https://linkedin.com/in/zulfikharaali/" target="_blank">
      <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
