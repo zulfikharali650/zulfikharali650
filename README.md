@@ -10,6 +10,7 @@ I'm a Researcher who is building his way into the AI world, one step at a time. 
   <a href="https://linkedin.com/in/zulfikharaali/" target="_blank" rel="noopener">
      <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
 ---
 
 ### 🧰 Languages and Tools
