@@ -1,6 +1,6 @@
-# Zulfi Ali 𐐘💥╾━╤デ╦︻ඞා
+# Zulfi Ali <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
-**`  (Researcher/~Coder/)`**
+**`(Researcher/~Coder/)`**
 
 I'm a Researcher who is building his way into the AI world, one step at a time. I have a list of my publications below (sone are collaborations).
 
