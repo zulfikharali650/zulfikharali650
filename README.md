@@ -34,12 +34,13 @@ I'm a Researcher who is building his way into the AI world, one step at a time. 
 <br />
 
 #
-
+<!--
 ### 📊 Stats
 
 ![Zulfi's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zulfikharali650&theme=radical&show_icons=true)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zulfikharali650&layout=compact)](https://github.com/zulfikharali650/github-readme-stats)
+-->
 
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics](https://metrics.lecoq.io/zulfikharali650?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 📊
+![Metrics](https://metrics.lecoq.io/zulfikharali650?template=classic&base.header=0&base.metadata=0&languages=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=10&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&gists=false&config.timezone=America%2FLos_Angeles&config.twemoji=true)
