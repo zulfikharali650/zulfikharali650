@@ -2,7 +2,7 @@
 
 **`(Researcher/~Coder/)`**
 
-I'm a Researcher who is building his way into the AI world, one step at a time. I have a list of my publications below (sone are collaborations).
+I'm a Researcher who is building his way into the AI world, one step at a time. I have a list of my publications below.
 
 <p align="left">
   <a href="https://scholar.google.com/citations?hl=en&user=KjH0IUIAAAAJ" target="_blank" rel="noopener">
