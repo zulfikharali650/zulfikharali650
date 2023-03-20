@@ -37,7 +37,7 @@ I'm a Researcher who is building his way into the AI world, one step at a time. 
 
 ### 📊 Stats
 
-[![Zulfi's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zulfikharali650&theme=radical&show_icons=true)]
+![Zulfi's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zulfikharali650&theme=radical&show_icons=true)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zulfikharali650&layout=compact)](https://github.com/zulfikharali650/github-readme-stats)]
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zulfikharali650&layout=compact)](https://github.com/zulfikharali650/github-readme-stats)
 
