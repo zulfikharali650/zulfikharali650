@@ -2,7 +2,7 @@
 
 **`(Researcher/~Coder/)`**
 
-I'm a Researcher who is building his way into the AI world, one step at a time. I have a list of my publications below.
+I'm a Researcher who is building his way into the AI world, one step at a time. Checkout my publications. 
 
 <p align="left">
   <a href="https://scholar.google.com/citations?hl=en&user=KjH0IUIAAAAJ" target="_blank" rel="noopener">
@@ -41,3 +41,5 @@ I'm a Researcher who is building his way into the AI world, one step at a time. 
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zulfikharali650&layout=compact)](https://github.com/zulfikharali650/github-readme-stats)
 
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://metrics.lecoq.io/zulfikharali650?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
