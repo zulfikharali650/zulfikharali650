@@ -35,5 +35,23 @@ I'm a Researcher who is building his way into the AI world, one step at a time. 
 ---
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 📊
+<p>
+  <div align=center style="margin: auto;">
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Source">
+      <img width=45% src="https://github-readme-stats.vercel.app/api?username=zulfikharali650&hide_title=true&show_icons=true&hide_border=true&line_height=23&show_icons=true&text_color=000&icon_color=000&bg_color=0,c64dff,4dfcff,4dfcff,52fa5a&theme=graywhite" />
+    </a>
+    <!-- wi*quL3fcV -->
+	<a href="https://github.com/anuraghazra/github-readme-stats" title="Source">
+      <img width=45% src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zulfikharali650&hide_title=true&hide_border=true&langs_count=8&layout=compact&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+    </a>
+  </div>
+  <!--
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+	<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="center" width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=zulfikharali650&hide_border=true&border=61dafb&theme=synthwave" alt="zulfikharali650" />
+    </a>
+  </div>
+  -->
+</p>
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=zulfikharali650&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfikharali650&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
