@@ -1,8 +1,13 @@
 # Zulfi Ali <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
-**`(Researcher/~Coder/)`**
+**`(Researcher/ML Enthusiast/~Coder/)`**
 
-I'm a Researcher who is building his way into the AI world, one step at a time. Checkout my publications. 
+
+
+I'm a Researcher who is building his way into the AI world, one step at a time. During my Ph.D., I worked with a team to develop a new real-time time-dependent density functional theory (rt-TDDFT) in the open-source Python software, PySCF. My role focused on the correct theory development and implantation of the basis-set conversion within the implemented approach in PySCF, which orthogonalized the quantum wave function using the Lowdin transformation method to study the excited-state dynamics of periodic systems. The results were published in the <a href="https://doi.org/10.1002/jcc.27058" target="_blank" rel="noopener">Journal of Computational Chemistry</a>. My focus has shifted to implementing machine learning and deep learning techniques to help study complex systems that can help the industry improve business efficiency. 
+
+
+Check out my publications. 
 
 <p align="left">
   <a href="https://scholar.google.com/citations?hl=en&user=KjH0IUIAAAAJ" target="_blank" rel="noopener">
