@@ -32,12 +32,15 @@ Check out my publications.
 <code><img width="30px" alt="TensorFlow" title="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></code>
 <code><img width="30px" alt="PyTorch" title="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></code>
 <code><img width="30px" alt="VS Code" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code><img width="30px" alt="ChatGPT" title="ChatGPT" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/chatgpt.svg" /></code>
 <code><img width="30px" alt="HTML" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></code>
 <code><img width="30px" alt="CSS" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></code>
 <code><img width="30px" alt="NodeJS" title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
 <code><img width="30px" alt="Latex" title="Latex" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /></code>
 <code><img width="30px" alt="Bash" title="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></code>
 ---
+
+
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 📊
 <p>
